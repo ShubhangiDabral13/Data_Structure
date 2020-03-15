@@ -1,1 +1,1 @@
-## Stack related oprations
+## Stack related operations
