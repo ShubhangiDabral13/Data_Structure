@@ -25,7 +25,7 @@ class Queue:
 
     def dequeue(self):
         self.size -= 1
-        return(self.queue.pop())
+        return(self.queue.pop(0))
 
     def get_size(self):
         return self.size
