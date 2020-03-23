@@ -15,18 +15,18 @@ def sparse_matrix(arr):
                 count += 1
 
     row1,column1 = (3,count)
-    new_arr = [[0 for i in range(column1)] for j in range(row1)]
-    print(new_arr)
+    new_arr = [[0 for i in range(row1)] for j in range(column1)]
+    
     k = 0
     for i in range(rows):
         for j in range(column):
             if arr[i][j] != 0:
-                new_arr[0][k] = i
-                new_arr[1][k] = j
-                new_arr[2][k] = arr[i][j]
+                new_arr[k][0] = i
+                new_arr[k][1] = j
+                new_arr[k][2] = arr[i][j]
                 k += 1
 
-    
+
     for i in new_arr:
         print(i)
 sparse_matrix([[0,0,3,0,4],[0,0,5,7,0],[0,0,0,0,0],[0,2,6,0,0]])
