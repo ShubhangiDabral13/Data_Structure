@@ -6,8 +6,9 @@ def sparse_matrix(arr):
             if arr[i][j] != 0 :
                 count += 1
 
-    row1,column1 = (3,count)
-    new_arr = [[0 for i in range(row1)] for j in range(column1)]
+    column1,row1 = (3,count)
+    new_arr = [[0 for i in range(column1)] for j in range(row1)]
+    print(new_arr)
 
     k = 0
 
