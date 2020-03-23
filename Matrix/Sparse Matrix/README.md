@@ -5,4 +5,5 @@ A matrix is a two-dimensional data object made of m rows and n columns, therefor
 Why to use Sparse Matrix instead of simple matrix ?
 
 **1 Storage: There are lesser non-zero elements than zeros and thus lesser memory can be used to store only those elements.**
+
 **2 Computing time: Computing time can be saved by logically designing a data structure traversing only non-zero elements..**
