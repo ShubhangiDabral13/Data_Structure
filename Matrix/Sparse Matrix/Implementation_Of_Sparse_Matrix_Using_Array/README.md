@@ -1,4 +1,5 @@
 ## We will convert Sparse Matrix into Array as gievn below:-
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/Sparse-Matrix-Array-Representation1.png)
+![](http://www.btechsmartclass.com/data_structures/ds_images/Triplet_Representation_of_Sparse_Matrix.png)
+
 
