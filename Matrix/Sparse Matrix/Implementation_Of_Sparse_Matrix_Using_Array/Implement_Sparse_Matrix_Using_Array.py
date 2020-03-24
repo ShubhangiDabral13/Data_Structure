@@ -14,19 +14,17 @@ def sparse_matrix(arr):
             if arr[i][j] != 0 :
                 count += 1
 
-    row1,column1 = (3,count)
-    new_arr = [[0 for i in range(row1)] for j in range(column1)]
+    sparse_mat = [[0]*3]*(count+1)
     
-    k = 0
+    sparse_mat[0] = [rows,column,count]
+    k = 1
     for i in range(rows):
         for j in range(column):
             if arr[i][j] != 0:
-                new_arr[k][0] = i
-                new_arr[k][1] = j
-                new_arr[k][2] = arr[i][j]
-                k += 1
+                sparse_mat[k] = [i,j,arr[i][j]]
+                k =k+1
 
 
-    for i in new_arr:
+    for i in sparse_mat:
         print(i)
 sparse_matrix([[0,0,3,0,4],[0,0,5,7,0],[0,0,0,0,0],[0,2,6,0,0]])
