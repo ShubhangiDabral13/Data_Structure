@@ -7,3 +7,4 @@
 #### 6).Rotate a Linked List:-https://github.com/ShubhangiDabral13/Pythonic_Lava_Coding_Question/tree/master/GeeksForGeeks/gfg-Accolite/Rotate%20A%20Linked%20List
 #### 7).Nth Node from end Linked List:-https://github.com/ShubhangiDabral13/Pythonic_Lava_Coding_Question/tree/master/GeeksForGeeks/gfg-Accolite/Nth%20Node%20From%20End%20Linked%20List
 #### 8).Delete A Node without Head pointer:-https://github.com/ShubhangiDabral13/Pythonic_Lava_Coding_Question/tree/master/GeeksForGeeks/gfg-Basic%20Question/Delete%20Without%20Head%20Pointer
+#### 9).Sort a List of 0s,1s,and 2s:-https://github.com/ShubhangiDabral13/Pythonic_Lava_Coding_Question/tree/master/GeeksForGeeks/gfg-Amazon/Sort%20A%20Linked%20List%20Of%200's%20%2C1's%20and%202's
