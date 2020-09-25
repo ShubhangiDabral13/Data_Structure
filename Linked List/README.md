@@ -10,3 +10,4 @@
 #### 9).Sort a List of 0s,1s,and 2s:-https://github.com/ShubhangiDabral13/Pythonic_Lava_Coding_Question/tree/master/GeeksForGeeks/gfg-Amazon/Sort%20A%20Linked%20List%20Of%200's%20%2C1's%20and%202's
 #### 10).Pairwise swap elements of Linked List:-https://github.com/ShubhangiDabral13/Pythonic_Lava_Coding_Question/tree/master/GeeksForGeeks/gfg-Amazon/Pairwise%20Swap%20Element
 #### 11).Delete a Linked list using Recursion:-https://github.com/ShubhangiDabral13/Data_Structure/tree/master/Recursion/Delete%20Linked%20list%20Using%20Recursion
+#### 12). List Partition(imp question) https://github.com/ShubhangiDabral13/Pythonic_Lava_Coding_Question/tree/master/Leetcode/19%20Partition%20List
